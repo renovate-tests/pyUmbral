@@ -106,12 +106,12 @@ workflows:
 python_35_base: &python_35_base
     working_directory: ~/pyUmbral-35
     docker:
-      - image: circleci/python:3.5
+      - image: circleci/python:3.7
 
 python_36_base: &python_36_base
     working_directory: ~/pyUmbral-36
     docker:
-      - image: circleci/python:3.6
+      - image: circleci/python:3.7
 
 python_37_base: &python_37_base
     working_directory: ~/pyUmbral-37
