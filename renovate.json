@@ -1,6 +1,5 @@
 {
   "extends": ["config:base"],
-  "pipenv": {
-    "enabled": true
-  }
+  "prHourlyLimit": 0,
+  "renovateFork": true
 }
