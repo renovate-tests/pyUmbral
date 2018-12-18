@@ -3,7 +3,7 @@ asn1crypto==0.24.0
 bytestringsplitter==1.0.0a1
 cffi==1.11.5; python_version != '3.0.*'
 constant-sorrow==0.1.0a3
-cryptography==2.4.1
+cryptography==2.4.2
 idna==2.7
 msgpack-python==0.5.6
 pycparser==2.19; python_version != '3.0.*'
